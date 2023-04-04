@@ -1,4 +1,4 @@
 resource "aws_s3_bucket" "this" {
   bucket = "test-bucket3"
-  tags = {Team = "sre", Service="testtestd"}
+  tags = {Team = "sre", Service="tesdttestd"}
 }
