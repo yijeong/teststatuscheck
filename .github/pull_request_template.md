@@ -19,8 +19,11 @@
 <!-- 리뷰어들이 함께 고민해주었으면 하는 부분이 있나요? -->
 
 
-## Team Service Tag 가 추가 되어있나요?  
-- [ ] Team 
-- [ ] Service 
+## Checklist
+- [x] I have read the [CONTRIBUTING.md]()
+- [x] I have made corresponding changes to the documentation
+- [x] My changes generate no lint errors
+- [x] I have added tests that prove my fix is effective or that my feature works
+- [x] New and existing unit tests pass locally with my changes
 
 ### \* 반영 완료후 SRE팀에서 merge 합니다.
